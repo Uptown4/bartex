@@ -1,2 +1,0 @@
-# bartex
-Barter Exchange App
